@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wait-react/static/css/main.08f44fb3.css",
+    "main.js": "/wait-react/static/js/main.f984c712.js",
+    "static/js/787.eac04f1e.chunk.js": "/wait-react/static/js/787.eac04f1e.chunk.js",
+    "index.html": "/wait-react/index.html",
+    "main.08f44fb3.css.map": "/wait-react/static/css/main.08f44fb3.css.map",
+    "main.f984c712.js.map": "/wait-react/static/js/main.f984c712.js.map",
+    "787.eac04f1e.chunk.js.map": "/wait-react/static/js/787.eac04f1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f44fb3.css",
+    "static/js/main.f984c712.js"
+  ]
+}
