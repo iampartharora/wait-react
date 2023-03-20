@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wait-react/static/css/main.e0c8612b.css",
+    "main.js": "/wait-react/static/js/main.acdd4667.js",
+    "index.html": "/wait-react/index.html",
+    "main.e0c8612b.css.map": "/wait-react/static/css/main.e0c8612b.css.map",
+    "main.acdd4667.js.map": "/wait-react/static/js/main.acdd4667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c8612b.css",
+    "static/js/main.acdd4667.js"
+  ]
+}
